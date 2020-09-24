@@ -1,0 +1,6 @@
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\Release\ActiveDirectory.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\Release\ActiveDirectory.pdb
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.csprojAssemblyReference.cache
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.csproj.CoreCompileInputs.cache
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.pdb

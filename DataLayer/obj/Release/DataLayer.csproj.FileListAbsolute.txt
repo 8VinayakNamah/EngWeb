@@ -1,0 +1,15 @@
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\DataLayer.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\DataLayer.pdb
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.AccessControl.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.Permissions.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.Principal.Windows.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.AccessControl.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.Permissions.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\Release\System.Security.Principal.Windows.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\Release\DataLayer.csprojAssemblyReference.cache
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\Release\DataLayer.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\Release\DataLayer.pdb
