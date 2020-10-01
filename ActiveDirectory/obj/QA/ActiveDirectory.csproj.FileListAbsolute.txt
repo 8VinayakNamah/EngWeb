@@ -1,0 +1,9 @@
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\QA\ActiveDirectory.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\QA\ActiveDirectory.pdb
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\QA\log4net.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\QA\log4net.xml
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\QA\ActiveDirectory.csprojAssemblyReference.cache
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\QA\ActiveDirectory.csproj.CoreCompileInputs.cache
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\QA\ActiveDirectory.csproj.CopyComplete
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\QA\ActiveDirectory.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\QA\ActiveDirectory.pdb

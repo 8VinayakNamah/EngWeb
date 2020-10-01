@@ -13,3 +13,5 @@ C:\Projects\web\Code\PhononicEngWeb\Database\obj\Release\Database.csproj.CoreCom
 C:\Projects\web\Code\PhononicEngWeb\Database\obj\Release\Database.csproj.CopyComplete
 C:\Projects\web\Code\PhononicEngWeb\Database\obj\Release\Database.dll
 C:\Projects\web\Code\PhononicEngWeb\Database\obj\Release\Database.pdb
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\Release\log4net.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\Release\log4net.xml

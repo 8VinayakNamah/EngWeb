@@ -1,0 +1,15 @@
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\DataLayer.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\DataLayer.pdb
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Configuration.ConfigurationManager.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.AccessControl.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.Permissions.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.Principal.Windows.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Configuration.ConfigurationManager.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.AccessControl.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.Permissions.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\bin\QA\System.Security.Principal.Windows.xml
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\QA\DataLayer.csprojAssemblyReference.cache
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\QA\DataLayer.csproj.CoreCompileInputs.cache
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\QA\DataLayer.csproj.CopyComplete
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\QA\DataLayer.dll
+C:\Projects\web\Code\PhononicEngWeb\DataLayer\obj\QA\DataLayer.pdb

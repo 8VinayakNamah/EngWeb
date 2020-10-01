@@ -66,11 +66,11 @@
                     </li>
                 </ul>--%>
             <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
-                <li class="nav-item">
+                <%--<li class="nav-item">
                     <a class="nav-link" href="#">
                         <img src="Images/profile1.png" class="img-fluid img-thumbnail" height="30" width="30" />
                     </a>
-                </li>
+                </li>--%>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact Us</a>
                 </li>

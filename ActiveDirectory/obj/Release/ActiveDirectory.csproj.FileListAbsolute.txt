@@ -4,3 +4,6 @@ C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.
 C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.csproj.CoreCompileInputs.cache
 C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.dll
 C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.pdb
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\Release\log4net.dll
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\bin\Release\log4net.xml
+C:\Projects\web\Code\PhononicEngWeb\ActiveDirectory\obj\Release\ActiveDirectory.csproj.CopyComplete

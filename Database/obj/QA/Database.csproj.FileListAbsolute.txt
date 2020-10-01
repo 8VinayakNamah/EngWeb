@@ -1,0 +1,16 @@
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\Database.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\Database.pdb
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\log4net.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Configuration.ConfigurationManager.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.AccessControl.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.Permissions.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.Principal.Windows.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\log4net.xml
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Configuration.ConfigurationManager.xml
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.AccessControl.xml
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.Permissions.xml
+C:\Projects\web\Code\PhononicEngWeb\Database\bin\QA\System.Security.Principal.Windows.xml
+C:\Projects\web\Code\PhononicEngWeb\Database\obj\QA\Database.csproj.CoreCompileInputs.cache
+C:\Projects\web\Code\PhononicEngWeb\Database\obj\QA\Database.csproj.CopyComplete
+C:\Projects\web\Code\PhononicEngWeb\Database\obj\QA\Database.dll
+C:\Projects\web\Code\PhononicEngWeb\Database\obj\QA\Database.pdb

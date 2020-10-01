@@ -18,10 +18,6 @@ namespace PhononicEngWeb
         protected  void Page_Load(object sender, EventArgs e)
         {
            
-           
-            
-
-           
 
             //AdService.IsInGroup("Administrator");
 
